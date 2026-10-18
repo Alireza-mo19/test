@@ -6,7 +6,7 @@ int main() {
     int countA = 0;
     int countE = 0;
     int countI = 0;
-    int countO = 2;
+    int countO = 3;
     int countU = 0;
 
     cout << "Enter characters (press Ctrl+Z then Enter to finish): ";
