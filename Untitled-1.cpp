@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     char name;
     int countA = 0;
-    int countE = 0;
+    int countE = 4;
     int countI = 0;
     int countO = 3;
     int countU = 0;
